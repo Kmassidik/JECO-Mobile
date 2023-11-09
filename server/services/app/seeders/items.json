@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Alcapone",
+    "description": "Donut dipped in white chocolate and topped with sliced toasted almonds.",
+    "price": 3500,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/4be290c0-6623-4407-afd9-773f88a0bdd3.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Avocado Dicaprio",
+    "description": "Donut filled with avocado cream, dipped in avocado chocolate, and garnished with dark chocolate flakes.",
+    "price": 3000,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/bd66767e-3fdf-4c92-b822-50b524e094ff.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Berry Spears",
+    "description": "Donut filled with whipped cream cheese, dipped in strawberry jam, and garnished with white chocolate flakes.",
+    "price": 3200,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/fcde6082-2a50-447c-bd1f-c022e7a74a67.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Black Jack",
+    "description": "Donut fully encased in dark chocolate.",
+    "price": 3800,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/8777fff0-1018-4495-b025-33bd4c2fefcd.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Blue Berrymore",
+    "description": "Donut filled with whipped cream cheese, dipped in blueberry jam, and garnished with white chocolate flakes.",
+    "price": 3400,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/bd62cf8e-45a0-4ed9-a971-78ec60455055.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Caviar Chocolate",
+    "description": "Donut dipped in hazelnut chocolate and sprinkled with dark chocolate coated crisps.",
+    "price": 2900,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/a97bafad-2f9b-4148-9fc0-114ec47264c0.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Caviar Strawberry",
+    "description": "Donut dipped in strawberry milk chocolate and sprinkled with dark chocolate coated crisps.",
+    "price": 3600,
+    "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/b015709c-3487-4083-bbca-622fa15600f4.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Cheese Cakelicious",
+    "description": "Donut filled with whipped cream cheese, dipped in white chocolate, topped with cookie crumbs, and garnished with white chocolate.",
+    "price": 3200,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/aebf42f6-9e66-4e5c-aa4f-cf7f2f2a3173.jpg",
+    "categoryId": 1
+  },
+  {
+    "name": "Chocolate Rainbow",
+    "description": "Donut dipped in white chocolate, sprinkled with crushed toasted almonds, and garnished with strawberry jam",
+    "price": 2800,
+    "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/5e44e75e-b721-45df-a50b-ea9d89d4eb0e.jpg",
+    "categoryId": 1
+  }
+]

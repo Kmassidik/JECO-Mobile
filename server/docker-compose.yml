@@ -1,0 +1,29 @@
+services:
+  app-services:
+    image: app-services
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      - "PORT=4002"
+      - "NODE_ENV=production"
+      - "DATABASE_URL=${DATABASE_URL}"
+      - "SECRET_KEY=${SECRET_KEY}"
+  user-services:
+    image: user-services
+    build: ./services/users
+    ports:
+      - "4001:4001"
+    environment:
+      - "PORT=4001"
+      - "MONGO_URL=${MONGO_URL}"
+  orchestrator:
+    image: orchestrator
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      - "PORT=4000"
+      - "REDIS_PASSWORD=${REDIS_PASSWORD}"
+      - "USER_URL=http://user-services:4001/users"
+      - "APP_URL=http://app-services:4002"

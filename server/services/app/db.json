@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Alcapone",
+      "description": "Donut dipped in white chocolate and topped with sliced toasted almonds.",
+      "price": 3500,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/4be290c0-6623-4407-afd9-773f88a0bdd3.jpg",
+      "authorID": 1,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T10:00:00Z",
+      "updatedAt": "2023-10-02T14:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Avocado Dicaprio",
+      "description": "Donut filled with avocado cream, dipped in avocado chocolate, and garnished with dark chocolate flakes.",
+      "price": 3000,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/bd66767e-3fdf-4c92-b822-50b524e094ff.jpg",
+      "authorID": 2,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T10:15:00Z",
+      "updatedAt": "2023-10-02T14:45:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Berry Spears",
+      "description": "Donut filled with whipped cream cheese, dipped in strawberry jam, and garnished with white chocolate flakes.",
+      "price": 3200,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/fcde6082-2a50-447c-bd1f-c022e7a74a67.jpg",
+      "authorID": 3,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T10:30:00Z",
+      "updatedAt": "2023-10-02T15:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Black Jack",
+      "description": "Donut fully encased in dark chocolate.",
+      "price": 3800,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/8777fff0-1018-4495-b025-33bd4c2fefcd.jpg",
+      "authorID": 1,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T10:45:00Z",
+      "updatedAt": "2023-10-02T15:15:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Blue Berrymore",
+      "description": "Donut filled with whipped cream cheese, dipped in blueberry jam, and garnished with white chocolate flakes.",
+      "price": 3400,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/bd62cf8e-45a0-4ed9-a971-78ec60455055.jpg",
+      "authorID": 2,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T11:00:00Z",
+      "updatedAt": "2023-10-02T15:30:00Z"
+    },
+    {
+      "id": 6,
+      "name": "Caviar Chocolate",
+      "description": "Donut dipped in hazelnut chocolate and sprinkled with dark chocolate coated crisps.",
+      "price": 2900,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/a97bafad-2f9b-4148-9fc0-114ec47264c0.jpg",
+      "authorID": 3,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T11:15:00Z",
+      "updatedAt": "2023-10-02T15:45:00Z"
+    },
+    {
+      "id": 7,
+      "name": "Caviar Strawberry",
+      "description": "Donut dipped in strawberry milk chocolate and sprinkled with dark chocolate coated crisps.",
+      "price": 3600,
+      "imgUrl": "http://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/b015709c-3487-4083-bbca-622fa15600f4.jpg",
+      "authorID": 1,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T11:30:00Z",
+      "updatedAt": "2023-10-02T16:00:00Z"
+    },
+    {
+      "id": 8,
+      "name": "Cheese Cakelicious",
+      "description": "Donut filled with whipped cream cheese, dipped in white chocolate, topped with cookie crumbs, and garnished with white chocolate.",
+      "price": 3200,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/aebf42f6-9e66-4e5c-aa4f-cf7f2f2a3173.jpg",
+      "authorID": 2,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T11:45:00Z",
+      "updatedAt": "2023-10-02T16:15:00Z"
+    },
+    {
+      "id": 9,
+      "name": "Chocolate Rainbow",
+      "description": "Donut dipped in white chocolate, sprinkled with crushed toasted almonds, and garnished with strawberry jam",
+      "price": 2800,
+      "imgUrl": "https://api.vold.dev.fleava.com/pictures/5b39cd517169294aba251f43/donuts/5e44e75e-b721-45df-a50b-ea9d89d4eb0e.jpg",
+      "authorID": 3,
+      "categoryId": 1,
+      "createdAt": "2023-10-02T12:00:00Z",
+      "updatedAt": "2023-10-02T16:30:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Donut"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "itemId": 1,
+      "imgUrl": "https://img.freepik.com/free-photo/three-fresh-organic-raw-eggs-isolated-white-surface_114579-43677.jpg",
+      "name": "eggs"
+    },
+    {
+      "id": 2,
+      "itemId": 1,
+      "imgUrl": "https://img.freepik.com/free-photo/ingredient-bags-full-flour_23-2149482548.jpg",
+      "name": "flour"
+    },
+    {
+      "id": 3,
+      "itemId": 1,
+      "imgUrl": "https://img.freepik.com/free-photo/world-diabetes-day-sugar-wooden-bowl-dark-surface_1150-26666.jpg",
+      "name": "sugar"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@admin.com",
+      "password": "admin",
+      "role": "admin",
+      "phoneNumber": "0808080808",
+      "address": "null"
+    }
+  ]
+}
