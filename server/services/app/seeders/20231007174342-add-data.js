@@ -20,7 +20,7 @@ module.exports = {
 
     let items = require("./items.json");
     items = items.map((e) => {
-      (e.mongoUserId = "652d72bc45c31b3015681746"),
+      (e.mongoUserId = "654dcd3075ada523418ff0e1"), // manual input from id user in mongo db
         (e.createdAt = new Date()),
         (e.updatedAt = new Date());
       return e;

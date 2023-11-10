@@ -8,7 +8,7 @@ import {
 } from "@apollo/client";
 
 const client = new ApolloClient({
-  uri: "https://a565-114-124-183-142.ngrok-free.app",
+  uri: "https://62dc-182-2-167-218.ngrok-free.app/",
   // uri: "https://api.devkmassidik.online/",
   cache: new InMemoryCache(),
 });
